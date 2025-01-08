@@ -1,9 +1,9 @@
 let audios =[
     {caminho: 'audios/grito.mp3',legenda:'GRITO'},
     {caminho: 'audios/jesus.mp3', legenda:'JESUS'},
-    {caminho: 'audios/nao-e-o-pai.mp3' , legenda:'NAO E O PAI'},
+    {caminho: 'audios/nao-e-o-pai.mp3' , legenda:'NAO É O PAI'},
     {caminho: 'audios/pare.mp3', legenda:'PARE'},
-    {caminho: 'audios/que-isso-meu-filho.mp3', legenda:'QUE ISSO MEU FILHO'},
+    {caminho: 'audios/que-isso-meu-filho.mp3', legenda:'QUE ISSO MEU FIO'},
     {caminho: 'audios/ratinhoo.mp3', legenda:'RATINHOO'},
     {caminho: 'audios/uepa.mp3', legenda:'UEPA'},
     {caminho: 'audios/vixi-ratinho.mp3', legenda:'VIXI RATINHO'},
